@@ -1,0 +1,10 @@
+C:\Users\Troy\Documents\Coding\C#\Udemy\knockoffPaint\bin\Debug\knockoffPaint.exe.config
+C:\Users\Troy\Documents\Coding\C#\Udemy\knockoffPaint\bin\Debug\knockoffPaint.exe
+C:\Users\Troy\Documents\Coding\C#\Udemy\knockoffPaint\bin\Debug\knockoffPaint.pdb
+C:\Users\Troy\Documents\Coding\C#\Udemy\knockoffPaint\obj\Debug\knockoffPaint.csprojAssemblyReference.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\knockoffPaint\obj\Debug\knockoffPaint.Form1.resources
+C:\Users\Troy\Documents\Coding\C#\Udemy\knockoffPaint\obj\Debug\knockoffPaint.Properties.Resources.resources
+C:\Users\Troy\Documents\Coding\C#\Udemy\knockoffPaint\obj\Debug\knockoffPaint.csproj.GenerateResource.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\knockoffPaint\obj\Debug\knockoffPaint.csproj.CoreCompileInputs.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\knockoffPaint\obj\Debug\knockoffPaint.exe
+C:\Users\Troy\Documents\Coding\C#\Udemy\knockoffPaint\obj\Debug\knockoffPaint.pdb
